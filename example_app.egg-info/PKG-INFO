@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: example-app
+Version: 1.0
+Summary: Example app
+Home-page: http://example.com
+Author: James Thompson
+Author-email: james.thompson@jellyfish.co.uk
+License: MIT
+Description: Example app
+Platform: UNKNOWN

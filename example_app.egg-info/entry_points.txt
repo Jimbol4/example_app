@@ -1,0 +1,4 @@
+
+        [console_scripts]
+        example_app = example_app.cli.main:main
+    
